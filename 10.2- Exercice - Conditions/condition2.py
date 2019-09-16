@@ -1,3 +1,4 @@
+# coding=utf-8
 # Problème : Déterminer si une année est bissextile ou non. Pour cela, il faut avoir ces règles en tête :
 #                   Si une année n'est pas multiple de 4, on s'arrête là, elle n'est pas bissextile.
 #                   Si elle est multiple de 4, on regarde si elle est multiple de 100.
@@ -7,3 +8,10 @@
 #                       Sinon, elle est bissextile.
 #
 # Résultat attendu : Un message affichant "Année bissextile" ou "Année non bissextile"
+
+annee = 2000
+
+if annee % 400 == 0 or (annee % 4 == 0 and annee % 100 != 0):
+    print "Année bissextile."
+else:
+    print "Année non bissextile."

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="" />
+    <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/IntroductionPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IntroductionPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +24,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jeff-muraro" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QrqZGjLzaOZjraRREi3sRQ8aCP" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -27,8 +48,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.liste1">
+    <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,11 +57,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2- Introduction - Traitement de string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.1- Exercice - Boucle" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2- Introduction - Traitement de string/strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boucle2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.2- Exercice - Boucle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fonction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.1- Exercice - Fonctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="liste1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="liste2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,11 +156,28 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.strings" />
+        <item itemvalue="Python.liste1" />
+        <item itemvalue="Python.fonction" />
+        <item itemvalue="Python.liste2" />
+        <item itemvalue="Python.boucle2" />
+        <item itemvalue="Python.boucle1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
